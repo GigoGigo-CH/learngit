@@ -7,4 +7,5 @@ package com.andy;
  */
 public class Person {
     private int age ; //年龄
+    private String name;
 }
