@@ -10,6 +10,7 @@ public class Student {
     private String name;
 	private double weight;  //体重
     private double height;
+	private String UID;
 
 }
 
