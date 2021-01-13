@@ -8,7 +8,7 @@ package com.andy;
 public class Student {
     private int age;
     private String name;
-	private double height;
+	private double weight;  //体重
 
 }
 
